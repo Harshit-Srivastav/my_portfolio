@@ -13,7 +13,7 @@ const Projects = () => {
                     <h2 className="text-[1.5rem]">Blog Application</h2>
                     <p className="text-[1.1rem] leading-loose tracking-tight">It is a application project of Blog Application which supports user authentication, allow individuals to create accounts and securely login to contribute their unique content.It follows a responsive UI for both bloggers and readers alike.
                     </p>
-                    <Link href="https://github.com/Harshit-Srivastav/Blog-Application" className="text-purple-500">Github - [Django, Python, SQL, Bootstrap]</Link>
+                    <Link href="#" className="text-purple-500">Github - [Django, Python, SQL, Bootstrap]</Link>
                 </div>
                 <div>
                     <h2 className="text-[1.5rem]">Expense Tracker
@@ -31,7 +31,7 @@ const Projects = () => {
                     room, send messages and geolocation
                     information to individuals in that specific room.
                     </p>
-                    <Link href="https://github.com/Harshit-Srivastav/Chat-Application" className="text-purple-500">Github - [Node.js, Socket.io, Express.js, JavaScript, HTML, CSS]</Link>
+                    <Link href="#" className="text-purple-500">Github - [Node.js, Socket.io, Express.js, JavaScript, HTML, CSS]</Link>
                 </div>
                 <div>
                     <h2 className="text-[1.5rem]">Ecommerce App</h2>
