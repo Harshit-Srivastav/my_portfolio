@@ -28,7 +28,7 @@ const Header = () => {
       `}</style>
       <div className="flex flex-col lg:flex-row justify-center lg:justify-between p-4 items-center text-white mt-3">
       <div className="lg:w-auto">
-      <Link href="/" className="font-light font-mono text-[2rem] text-center lg:text-left ">harshit.dev</Link>
+      <Link href="/" className="font-light font-mono text-[2rem] text-center lg:text-left ">Harshit Srivastava</Link>
       </div>
         <div className="hidden lg:flex space-x-4 font-mono text-[1.2rem]">
           <Link href="#my_projects">Lookbook</Link>
