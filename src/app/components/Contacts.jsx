@@ -2,7 +2,7 @@
 
 // const ContactForm = () => {
 //   return (
-//     <div className="min-h-screen bg-purple-700 flex items-center justify-center" id="my_contacts">
+//     <div className="min-h-screen bg-purple-700 flex items-center justify-center" my-4 id="my_contacts">
 //       <div className="w-full max-w-lg p-8 bg-white rounded-lg shadow-lg">
 //         <h2 className="text-3xl font-bold mb-6 text-center text-gray-900">Contact</h2>
 //         <form className="space-y-4">
